@@ -1,60 +1,19 @@
-# Project Title
-Facebook Scraper is (3)
-## Description
+# Facebook Scraper.
+Facebook Scraper is a an application that gives anlysis of your Facebook Page audience activity. 
 
-An in-depth paragraph about your project and overview of use.
+## Description
+Just enter FB login credentials and FB page username, and a score of the total engagements on the FB page (comments, likes, shares) will be given in addition to a graph-based analysis of the FB page monthly audience activity (Day 1 - Day 30).
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* matplotlib python library.
+* facebook_scraper library.
 
 ### Executing program
+1. Run Main.py.
+2. Type your Facebook account and password.
+3. Enter the username of the page you need the data for (the name from permalink. For example: www.facebook.com/example -> name = example).
+4. Wait for the results and have fun ^^.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
