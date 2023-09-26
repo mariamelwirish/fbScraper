@@ -13,8 +13,8 @@ Just enter FB login credentials and FB page username, and a score of the total e
 ### Dependencies
 You need to have the following libraries installed on your 
 
-* matplotlib python library.
-* facebook_scraper library.
+* ` matplotlib python ` library.
+* ` facebook_scraper ` library.
 
 ### Executing program
 1. Run Main.py.
